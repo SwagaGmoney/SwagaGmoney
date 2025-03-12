@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on calendar app in React-Native.<br>🌱 I’m currently learning Machine Learning and Ai-Engineering<br>💬 Ask me about react,typescript,python,pandas<br>👨‍💻 All of my projects are available at yash-gandhi.vercel.app<br>📫 How to reach me gyash557@gmail.com
+🔭 I’m currently working on calendar app in React-Native.<br>🌱 I’m currently learning Machine Learning and Ai-Engineering<br>💬 Ask me about react,typescript,python,pandas<br>👨‍💻 All of my projects are available at <br>yash-gandhi.vercel.app<br>📫 How to reach me gyash557@gmail.com
 
 
 ## 🌐 Socials:
