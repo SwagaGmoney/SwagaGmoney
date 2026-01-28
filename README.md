@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on Sport Analytics App using React.<br>🌱 I’m currently learning Machine Learning and Ai-Engineering<br>💬 Ask me about react,typescript,python,pandas<br>👨‍💻 All of my projects are available at <ins>**yash-gandhi.vercel.app**</ins> <br>📫 How to reach me gyash557@gmail.com
+🔭 working on solving day-to-day problems.<br>🌱 I’m currently learning Machine Learning and Ai-Engineering<br>💬 Ask me about react,typescript,python,pandas<br>👨‍💻 All of my projects are available at <ins>**yash-gandhi.vercel.app**</ins> <br>📫 How to reach me gyash557@gmail.com
 
 
 ## 🌐 Socials:
